@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Maaz Khan
+# 👋 Hi there! I'm Maaz Sher Muhammad
 
-I'm a 5th semester **BS Software Engineering** student at **Pak-Austria Fachhochschule**. Passionate about **full-stack development**, **AI-integrated business tools**, and **open-source innovation**.
+I'm a 5th semester **BS Software Engineering** student at **Pak-Austria Fachhochschule**.
 
 
  🚀 Skills & Tools
@@ -25,4 +25,4 @@ I love creating user-friendly tools that solve real-world problems and empower p
 📫 Reach me at:  
 [📧 Email](maazshermuhammadofficial@gmail.com)  | [💼 LinkedIn](www.linkedin.com/in/
 maaz-sher-muhammad-084987317
-)
+) [https://github.com/MaazSherMuhammad/MaazSherMuhammad]
