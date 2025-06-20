@@ -36,7 +36,7 @@ I love creating user-friendly tools that solve real-world problems and empower p
 
 📫 Reach me at:  
 
-[  📧Email]  (maazshermuhammadofficial@gmail.com)  | [💼 LinkedIn]  (linkedin.com/in/maaz-sher-muhammad-084987317
+[  📧Email]  (maazshermuhammadofficial@gmail.com)  | [💼 LinkedIn]  (linkedin.com/in/maaz-sher-muhammad-084987317)
 =======
 [📧 Email](maazshermuhammadofficial@gmail.com)  | [💼 LinkedIn](www.linkedin.com/in/
 maaz-sher-muhammad-084987317
