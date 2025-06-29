@@ -1,43 +1,83 @@
-# 👋 Hi there! I'm Maaz Sher Muhammad
+# 👋 Hi there, I'm **Maaz Sher Muhammad**
 
-I'm a 5th semester **BS Software Engineering** student at **Pak-Austria Fachhochschule**.
+🎓 *Software Engineering Student*  
+📍 *PAF-IAST Haripur, Pakistan*  
+💡 *Passionate about Web Development · Creative Design · Secure Systems*
 
+![Animated Developer](https://camo.githubusercontent.com/594b6c827bbc06aab824c191597dff74850c38e59e6cf700174cf133b6692fc4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d634238586f7370475a4f3855517138372f67697068792e676966)
 
- 🚀 Skills & Tools
-- 👨‍💻 Programming: C++,
-- 🌐 Web: HTML5, CSS3, WordPress
-- 🛠️ Tools: XAMPP, MySQL, Canva
-- 📦 Projects: SecureVault (AES-256 File Encryption), Doctor Appointment System
+---
 
-## 🧰 Tools & Technologies I Use
+## ✨ Who Am I?
+
+I'm an **aspiring software engineer** who believes that great software is not only functional, but **thoughtful, elegant, and user-first**.  
+Currently on a mission to **master the fundamentals** — one project, one problem, one design at a time.
+
+---
+
+## 🎯 **Currently Learning**
+
+- 🐍 **Python** — problem solving & automation
+- 🖌️ **Graphic Design** — posters, branding, social media visuals
+- 🔄 **Git & GitHub** — version control & collaboration
+- 🎨 **WordPress** — responsive web design
+
+---
+
+## 🛠️ **Tech Stack & Interests**
+
+| **Category**      | **Technologies / Tools**                                    |
+|-------------------|-------------------------------------------------------------|
+| **Languages**     | C++ · Python                                                |
+| **Frontend**      | HTML5 · CSS3 · WordPress                                    |
+| **Backend & DB**  | XAMPP · MySQL                                               |
+| **Design**        | Canva · Figma *(beginner)*                                  |
+| **Interests**     | UI/UX Design · Web Security · Creative Branding            |
+
+---
+
+## 🌟 **Featured Projects**
+
+🔐 **SecureVault**  
+*A simple AES‑256 encryption tool focused on usability and security.*
+
+🩺 **Doctor Appointment System**  
+*A responsive web app for scheduling and managing doctor visits.*
+
+---
+
+## 💡 **What I'm Focusing On**
+
+- ✨ Strengthening problem-solving with Python
+- 🖌️ Enhancing UI/UX in web interfaces
+- 🎯 Designing clean, professional visuals with Canva
+- 📱 Practicing responsive design in WordPress
+
+---
+
+## 🤓 **Fun Facts About Me**
+
+🌸 I love organizing messy UIs into clean, intuitive experiences.  
+🔐 I'm fascinated by ethical hacking and secure systems.  
+🎨 Canva is my creative playground.  
+✍️ I write code like poetry — one elegant line at a time.  
+
+---
+
+## 🔗 **Connect with Me**
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/MaazSherMuhammad/MaazSherMuhammad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maaz-sher-muhammad-084987317)
+
+---
+
+## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white" alt="XAMPP"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaazSherMuhammad&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazSherMuhammad&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
- 🎯 Goals for 2025
-- 🚀 Complete Final Year Project (AI-Integrated Web + Mobile App)
-- 📈 Launch my own open-source business tool
-- 🤝 Contribute to open-source projects
-- 📚 Learn MERN stack & Flutter
+---
 
-
- 💡 Fun Fact
-I love creating user-friendly tools that solve real-world problems and empower people.
-
-
-
-📫 Reach me at:  
-
-[  📧Email]  (maazshermuhammadofficial@gmail.com)  | [💼 LinkedIn]  (linkedin.com/in/maaz-sher-muhammad-084987317)
-[📧 Email](maazshermuhammadofficial@gmail.com)  | [💼 LinkedIn](www.linkedin.com/in/
-maaz-sher-muhammad-084987317
-) [https://github.com/MaazSherMuhammad/MaazSherMuhammad]
->>>>>>> d928614a784a3dd062ca5809c9e4d015ed256bd6
+> **“Don’t just code to solve problems. Design to make experiences.”**
